@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-trap: Trap;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --gray-2: #4f4f4f;
+  --gray-1: #333;
+
+  /* Gaps */
+  --gap-base: 16px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+}

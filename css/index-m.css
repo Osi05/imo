@@ -1,0 +1,259 @@
+.iphone-14-15-pro-max-1-child {
+  position: absolute;
+  height: 25.93%;
+  width: 295.93%;
+  top: -9.66%;
+  right: -196.8%;
+  bottom: 83.73%;
+  left: 0.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.6;
+}
+.imou {
+  position: relative;
+  letter-spacing: -0.05em;
+  line-height: 100%;
+}
+.menu-01-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.imou-parent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 188px);
+  width: 376px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 0;
+  box-sizing: border-box;
+}
+.imoukhuede {
+  position: relative;
+  letter-spacing: -0.03em;
+  line-height: 100%;
+}
+.im-a-brand {
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+  width: 361px;
+}
+.im-a-brand-and-product-design-wrapper,
+.imoukhuede-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.im-a-brand-and-product-design-wrapper {
+  align-items: flex-start;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--gray-2);
+}
+.imoukhuede-parent {
+  position: absolute;
+  top: 129px;
+  left: calc(50% - 185.5px);
+  align-items: center;
+  gap: var(--gap-base);
+  font-size: 64px;
+  color: var(--gray-1);
+}
+.divoverflow-hidden {
+  position: relative;
+  border-radius: 12.77px;
+  background-color: var(--color-white);
+  box-shadow: 0 0 0 0.32px #e4e5e9, 0 0 0 0.64px rgba(228, 229, 233, 0.6),
+    0 0 0 2.23px #f9f9fb, 0 0 0 2.55px #f3f4f7;
+  width: 350px;
+  height: 289.86px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.deviceframes-6-1 {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 112.93px);
+  left: calc(50% - 138px);
+  width: 301.35px;
+  height: 226.65px;
+  object-fit: cover;
+  z-index: 1;
+}
+.divoverflow-hidden-parent {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 5.98px;
+}
+.lenco-2021 {
+  position: relative;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+  width: 350px;
+}
+.frame-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15.95px;
+}
+.deviceframes-2-icon,
+.deviceframes-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 176.16px;
+  height: 251.9px;
+  object-fit: cover;
+}
+.deviceframes-icon {
+  top: 26.65px;
+  left: 138.14px;
+  width: 161.86px;
+  height: 225.24px;
+}
+.deviceframes-2-parent {
+  position: absolute;
+  top: 53.24px;
+  left: 25px;
+  width: 300px;
+  height: 251.9px;
+}
+.divoverflow-hidden1 {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 0 0 0.5px #e4e5e9, 0 0 0 1px rgba(228, 229, 233, 0.6),
+    0 0 0 3.5px #f9f9fb, 0 0 0 4px #f3f4f7;
+  width: 350px;
+  height: 305.58px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.divoverflow-hidden-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.boradpay-2023 {
+  position: relative;
+  line-height: 120%;
+  font-weight: 500;
+  display: inline-block;
+  width: 350px;
+}
+.frame-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15.95px;
+}
+.image-745-icon {
+  position: absolute;
+  top: 34px;
+  left: -123px;
+  width: 626px;
+  height: 272px;
+  object-fit: cover;
+}
+.lenco-2022 {
+  position: relative;
+  line-height: 120%;
+  font-weight: 500;
+}
+.deviceframes-8-icon {
+  position: absolute;
+  top: 27.63px;
+  left: 0;
+  width: 218.63px;
+  height: 224.32px;
+  object-fit: cover;
+}
+.group-child {
+  position: absolute;
+  top: 33.5px;
+  left: 90.97px;
+  border-radius: 90px;
+  background-color: #190c05;
+  filter: blur(24px);
+  width: 52.83px;
+  height: 220.31px;
+  transform: rotate(-12.65deg);
+  transform-origin: 0 0;
+  opacity: 0.5;
+}
+.deviceframes-7-icon {
+  position: absolute;
+  top: 0;
+  left: 82.09px;
+  width: 234.07px;
+  height: 251.95px;
+  object-fit: cover;
+}
+.deviceframes-8-parent {
+  position: absolute;
+  top: 54.05px;
+  left: 17px;
+  width: 316.16px;
+  height: 251.95px;
+}
+.deviceframes-11-1 {
+  position: absolute;
+  top: 54px;
+  left: 62px;
+  width: 226px;
+  height: 252px;
+  object-fit: cover;
+}
+.frame-parent,
+.iphone-14-15-pro-max-1-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent {
+  gap: 40px;
+}
+.iphone-14-15-pro-max-1-inner {
+  position: absolute;
+  top: 339px;
+  left: 40px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.iphone-14-15-pro-max-1 {
+  position: relative;
+  background-color: #fafafa;
+  width: 100%;
+  height: 3076px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 36px;
+  color: var(--gray-2);
+  font-family: var(--font-trap);
+}
+
+a, a:hover, a:visited, a:active {
+  color: inherit;
+  text-decoration: none;
+ }
